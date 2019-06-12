@@ -1,5 +1,17 @@
 # Outra página de exemplo
 
+<details>
+<summary>Aqui tem um collapse (Clique para expandir)</summary>
+
+- Abc
+- Def
+
+</details>
+
+Legal, né?
+
+## Código
+
 Que tal um pouco de `código`?
 
 ```php

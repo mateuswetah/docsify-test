@@ -19,8 +19,18 @@
       logo: '/_media/logo_tainacan.png',
       themeColor: '#298596',     
       fallbackLanguages: ['en', 'pt-br'],     
-      search: 'auto',
-//      loadSidebar: true,
+      search: {
+        placeholder: {
+          '/pt-br/': 'Digite para buscar...',
+          '/': 'Type to search...'
+        },  
+        noData: {
+          '/pt-br/': 'Nenhum resultado',
+          '/': 'No Results'
+        },
+      },
+      loadSidebar: true,
+      subMaxLevel: 3,
       loadNavbar: true,
       plugins: [
           EditOnGithubPlugin.create('https://github.com/mateuswetah/docsify-test/blob/master/docs/')

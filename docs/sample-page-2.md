@@ -1,5 +1,17 @@
 # Another sample page
 
+<details>
+<summary>Here is a collapse (Click to expand)</summary>
+
+- Abc
+- Def
+
+</details>
+
+Cool, hun?
+
+## Code
+
 How about some `code`?
 
 ```php
