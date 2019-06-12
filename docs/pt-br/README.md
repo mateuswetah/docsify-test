@@ -4,7 +4,8 @@
 
 ## Links
 
- - [Uma página](sample-page.md)
+ - [Uma página](pt-br/sample-page.md)
+ - [Outra página](pt-br/sample-page-2.md)
 
 <!-- tabs:start -->
 

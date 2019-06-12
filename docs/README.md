@@ -5,6 +5,7 @@
 ## Links
 
  - [A Page](sample-page.md)
+ - [Another Page](sample-page-2.md)
 
 <!-- tabs:start -->
 

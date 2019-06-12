@@ -4,4 +4,4 @@ Aqui o mundo é tranquilo.
 
 Aqui vai uma imagem: clique nela ;)
 
-![Image](/_media/logo_tainacan.png)
+![Image](/_media/screenshot.png)
