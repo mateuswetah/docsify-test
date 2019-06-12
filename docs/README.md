@@ -1,4 +1,4 @@
-# Wiki do Tainacan
+# Tainacan Wiki
 
 > An awesome project.
 
