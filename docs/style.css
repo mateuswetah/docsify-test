@@ -1,6 +1,11 @@
+/* Body typography */
+body {
+    font-family: Roboto,Source Sans Pro,Helvetica Neue,Arial,sans-serif;
+}
+
 /* Sidebar Logo */
 .app-name-link img {
-    padding: 12px;
+    padding: 24px 36px;
 }
 
 /* Navbar menu */

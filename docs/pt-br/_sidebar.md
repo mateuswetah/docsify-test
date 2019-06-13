@@ -1,4 +1,4 @@
-* [Página inicial](/)
+* [PÁGINA INCIAL](pt-br/)
  
 * Páginas
   * [Uma página](pt-br/sample-page.md)

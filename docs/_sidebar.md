@@ -1,4 +1,4 @@
-* [Home](/)
+* [HOME](/)
  
 * Pages
   * [One Page](sample-page.md)
